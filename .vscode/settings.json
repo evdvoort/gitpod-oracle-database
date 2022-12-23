@@ -21,17 +21,16 @@
             "tnsAdmin": "/home/gitpod/Oracle/network/admin"
         },
         {
-            "authenticationType": 2,
-            "dBAPrivilege": "None",
-            "userID": "DEV",
+            "dBAPrivilege": "SYSDBA",
+            "userID": "SYS",
             "passwordSaved": true,
-            "password": "DEV_PW",
-            "dataSource": "localhost:1521/XEPDB1",
+            "password": "TheSuperSecret1509!",
+            "dataSource": "localhost:1521/XE",
             "connectionType": 2,
             "databaseHostName": "localhost",
             "databasePortNumber": "1521",
-            "databaseServiceName": "XEPDB1",
-            "name": "DEV.XEPDB1",
+            "databaseServiceName": "XE",
+            "name": "SYS.XEPDB1",
             "currentSchema": "",
             "tnsAdmin": "/home/gitpod/Oracle/network/admin"
         },
